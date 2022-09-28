@@ -1,1 +1,1 @@
-# Write-A-Program-In-C-To-Find-Factorial-By-Using-Recursion
+# Write-A-Program-In-C++-To-Find-Factorial-By-Using-Recursion
